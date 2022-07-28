@@ -25,6 +25,6 @@
 
 其中模型权重和数据data由于过大未进行上传
 
-fine-tune过程主要参考https://github.com/NielsRogge/Transformers-Tutorials/tree/master/LayoutLMv3的代码进行编写（打标过程为自己实现的）
+fine-tune过程主要参考 https://github.com/NielsRogge/Transformers-Tutorials/tree/master/LayoutLMv3 的代码进行编写（打标过程为自己实现的）
 
 但是此次fine-tune在B榜上效果欠佳，得分最终仅有35.6591
