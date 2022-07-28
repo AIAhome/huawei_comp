@@ -1,0 +1,942 @@
+[
+    {
+        "company": " Butcher Boy Pte Ltd",
+        "date": " Emily-04/06/21",
+        "total": " 86.",
+        "tax": "",
+        "items": [
+            {
+                "name": "Chocolate Textures",
+                "cnt": " 1",
+                "price": " 12.00"
+            },
+            {
+                "name": " Iberico Pork Belly",
+                "cnt": " 1",
+                "price": " 32.00"
+            },
+            {
+                "name": " Crispy Chicken",
+                "cnt": " 1",
+                "price": " 35.00"
+            }
+        ]
+    },
+    {
+        "company": " Butcher Boy Pte Ltd",
+        "date": " Emily-09/15/21",
+        "total": " 29.",
+        "tax": "",
+        "items": [
+            {
+                "name": " Crispy Fish Skin",
+                "cnt": " 1",
+                "price": " 6.00"
+            },
+            {
+                "name": " Steam pot chicken",
+                "cnt": " 1",
+                "price": " 21.00"
+            },
+            {
+                "name": "00",
+                "cnt": "",
+                "price": ""
+            }
+        ]
+    },
+    {
+        "company": " Butcher Boy Pte Ltd",
+        "date": " Emily-01/08/21 08:",
+        "total": " 74.",
+        "tax": "",
+        "items": [
+            {
+                "name": " Chocolate Textures",
+                "cnt": " 1",
+                "price": " 12.00"
+            },
+            {
+                "name": " Crispy Fish Skin",
+                "cnt": " 1",
+                "price": " 6.00"
+            },
+            {
+                "name": " Duck Banh Mi",
+                "cnt": " 1",
+                "price": " 18.00"
+            },
+            {
+                "name": " Iberico Pork Belly",
+                "cnt": " 1",
+                "price": " 32.00"
+            }
+        ]
+    },
+    {
+        "company": " Butcher Boy Pte Ltd",
+        "date": " Emily-08/19/21 08:",
+        "total": " 36.",
+        "tax": "",
+        "items": [
+            {
+                "name": " Paoruda",
+                "cnt": " 1",
+                "price": " 12.00"
+            },
+            {
+                "name": " Steam pot Chicken",
+                "cnt": " 1",
+                "price": " 21.00"
+            }
+        ]
+    },
+    {
+        "company": " Butcher Boy Pte Ltd",
+        "date": " Emily-02/24/21",
+        "total": " 51.",
+        "tax": "",
+        "items": [
+            {
+                "name": " Iberico Pork Belly",
+                "cnt": " 1",
+                "price": " 32.00"
+            },
+            {
+                "name": " Cuttlefish Roll",
+                "cnt": " 1",
+                "price": " 15.00"
+            }
+        ]
+    },
+    {
+        "company": " Butcher Boy Pte Ltd",
+        "date": " Emily-04/27/21",
+        "total": " 93.",
+        "tax": "",
+        "items": [
+            {
+                "name": "rispy Chicken",
+                "cnt": " 1",
+                "price": " 35.00"
+            },
+            {
+                "name": " Iberico Pork Belly",
+                "cnt": " 1",
+                "price": " 32.00"
+            },
+            {
+                "name": " Duck Banh Mi",
+                "cnt": " 1",
+                "price": " 18."
+            }
+        ]
+    },
+    {
+        "company": " Butcher Boy Pte Ltd",
+        "date": " Emily-07/07/21",
+        "total": " 71.",
+        "tax": "",
+        "items": [
+            {
+                "name": " ×Paoruda",
+                "cnt": "01",
+                "price": " 12.00"
+            },
+            {
+                "name": " Iberico Pork Belly",
+                "cnt": " 1",
+                "price": " 32.00"
+            },
+            {
+                "name": " Steam pot chicken",
+                "cnt": " 1",
+                "price": " 21.00"
+            },
+            {
+                "name": "",
+                "cnt": " 1",
+                "price": ""
+            }
+        ]
+    },
+    {
+        "company": " Butcher Boy Pte Ltd",
+        "date": " Emily-06/09/21 06:",
+        "total": " 42.",
+        "tax": "",
+        "items": [
+            {
+                "name": "Steam pot chicken",
+                "cnt": " 1",
+                "price": " 21.00"
+            },
+            {
+                "name": " Crispy Fish Skin",
+                "cnt": " 1",
+                "price": " 6.00"
+            },
+            {
+                "name": " Chocolate Textures",
+                "cnt": " 1",
+                "price": " 12.00"
+            }
+        ]
+    },
+    {
+        "company": " Butcher Boy Pte Ltd",
+        "date": " Emily-12/21/21",
+        "total": " 48.",
+        "tax": "",
+        "items": [
+            {
+                "name": " x Chocolate Textures",
+                "cnt": " 1",
+                "price": " 12.00"
+            },
+            {
+                "name": " x Iberico Pork Belly",
+                "cnt": " 1",
+                "price": " 32.00"
+            }
+        ]
+    },
+    {
+        "company": " Butcher Boy Pte Ltd",
+        "date": " Emily-05/01/21",
+        "total": " 74.",
+        "tax": "",
+        "items": [
+            {
+                "name": "ris",
+                "cnt": " 1",
+                "price": " 35.00"
+            },
+            {
+                "name": " Chicken",
+                "cnt": " 1",
+                "price": " 15.00"
+            },
+            {
+                "name": " Cuttlefish roll",
+                "cnt": " 1",
+                "price": " 18.00"
+            },
+            {
+                "name": " Duck Banh Mi",
+                "cnt": "",
+                "price": ""
+            }
+        ]
+    },
+    {
+        "company": " Butcher Boy Pte Ltd",
+        "date": " Emily-07/12/21",
+        "total": " 46.",
+        "tax": "",
+        "items": [
+            {
+                "name": " xPaoruda",
+                "cnt": " 1",
+                "price": " 12.00"
+            },
+            {
+                "name": " Duck Banh Mi",
+                "cnt": " 1",
+                "price": " 18.00"
+            },
+            {
+                "name": " Chocolate Textures",
+                "cnt": " 1",
+                "price": " 12.00"
+            }
+        ]
+    },
+    {
+        "company": " Butcher Boy Pte Ltd",
+        "date": " Emily-06/18/21 06:",
+        "total": " 71.",
+        "tax": "",
+        "items": [
+            {
+                "name": "Steam pot Chicken",
+                "cnt": " 1",
+                "price": " 21.00"
+            },
+            {
+                "name": " Iberico Potk Belly",
+                "cnt": " 1",
+                "price": "."
+            },
+            {
+                "name": " Chocolate Textures",
+                "cnt": " 1",
+                "price": " 12.00"
+            }
+        ]
+    },
+    {
+        "company": " Butcher Boy Pte Ltd",
+        "date": " Emily-11/19/21",
+        "total": " 48",
+        "tax": "",
+        "items": [
+            {
+                "name": " Paoruda",
+                "cnt": " 1",
+                "price": " 12.00"
+            },
+            {
+                "name": " Iberico Pork Belly",
+                "cnt": " 1",
+                "price": " 32.00"
+            }
+        ]
+    },
+    {
+        "company": " Butcher Boy Pte Ltd",
+        "date": " Emily-07/24/21",
+        "total": " 33.",
+        "tax": "",
+        "items": [
+            {
+                "name": " xPaoruda",
+                "cnt": " 1",
+                "price": " 12.00"
+            },
+            {
+                "name": " Duck Banh Mi",
+                "cnt": " 1",
+                "price": " 18.00"
+            }
+        ]
+    },
+    {
+        "company": " Butcher Boy Pte Ltd",
+        "date": " Emily-05/16/21",
+        "total": " 54",
+        "tax": "",
+        "items": [
+            {
+                "name": "Steam pot chicken",
+                "cnt": " 1",
+                "price": " 21.00"
+            },
+            {
+                "name": " Cuttlefish roll",
+                "cnt": " 1",
+                "price": " 15.00"
+            },
+            {
+                "name": " Duck Banh Mi",
+                "cnt": " 1",
+                "price": " 18.00"
+            }
+        ]
+    },
+    {
+        "company": " Butcher Boy Pte Ltd",
+        "date": " Emily-11/06/21",
+        "total": " 55.",
+        "tax": "",
+        "items": [
+            {
+                "name": " Duck Banh Mi",
+                "cnt": " 1",
+                "price": " 18.00"
+            },
+            {
+                "name": " Iberico Pork Belly",
+                "cnt": " 1",
+                "price": " 32.00"
+            }
+        ]
+    },
+    {
+        "company": " Butcher Boy Pte Ltd",
+        "date": " Emily-04/19/21",
+        "total": " 71.",
+        "tax": "",
+        "items": [
+            {
+                "name": "Cuttlefish roll",
+                "cnt": " 1",
+                "price": " 15.00"
+            },
+            {
+                "name": " Iberico Pork Belly",
+                "cnt": " 1",
+                "price": " 32.00"
+            },
+            {
+                "name": " Duck Banh Mi",
+                "cnt": " 1",
+                "price": " 18.00"
+            }
+        ]
+    },
+    {
+        "company": " Butcher Boy Pte Ltd",
+        "date": " Emily-05/28/21",
+        "total": " 49.",
+        "tax": "",
+        "items": [
+            {
+                "name": "Steam pot chicken",
+                "cnt": " 1",
+                "price": " 21.00"
+            },
+            {
+                "name": " Crispy Fish Skin",
+                "cnt": " 1",
+                "price": " 6.00"
+            },
+            {
+                "name": " Duck Banh Mi",
+                "cnt": " 1",
+                "price": " 18.00"
+            }
+        ]
+    },
+    {
+        "company": " FIVE GUYS",
+        "date": " 3/25/20",
+        "total": " $16.",
+        "tax": " $1.",
+        "items": [
+            {
+                "name": " liver with cream",
+                "cnt": "1",
+                "price": " $7.0"
+            },
+            {
+                "name": " sauce stuffed chicken",
+                "cnt": "1",
+                "price": " $8."
+            }
+        ]
+    },
+    {
+        "company": " FIVE GUYS",
+        "date": " 3/23/20",
+        "total": " $15.",
+        "tax": " $1.",
+        "items": [
+            {
+                "name": " ox-tail soup",
+                "cnt": "1",
+                "price": " $8.4"
+            },
+            {
+                "name": " kidney with cream",
+                "cnt": "1",
+                "price": " $6.0"
+            }
+        ]
+    },
+    {
+        "company": " 小绿荳便民超市长风�",
+        "date": " 单号：03X222031000267",
+        "total": " 18.00",
+        "tax": "",
+        "items": [
+            {
+                "name": " 6925303721244统一鲜橙多2L",
+                "cnt": " 1",
+                "price": " 9"
+            },
+            {
+                "name": " 6925303721244统一鲜橙多2L",
+                "cnt": " 1",
+                "price": " 9"
+            }
+        ]
+    },
+    {
+        "company": " 小绿荳便民超市长风",
+        "date": "� 单号：03X222031300214",
+        "total": " 17.00",
+        "tax": "",
+        "items": [
+            {
+                "name": " 6902083922658娃哈哈AD钙奶45",
+                "cnt": " 1",
+                "price": " 6"
+            },
+            {
+                "name": "",
+                "cnt": " 1",
+                "price": " 11"
+            }
+        ]
+    },
+    {
+        "company": " 小绿荳便民超市长风",
+        "date": " 单号:03X222031300168",
+        "total": " 9.00",
+        "tax": "",
+        "items": [
+            {
+                "name": "241839",
+                "cnt": " 1",
+                "price": " 4"
+            },
+            {
+                "name": "� 副",
+                "cnt": " 1",
+                "price": " 5"
+            },
+            {
+                "name": " 6923450603574彩虹糖原味30g",
+                "cnt": "",
+                "price": ""
+            }
+        ]
+    },
+    {
+        "company": " 小绿荳便民超市长�",
+        "date": " 单号：03X222031200166",
+        "total": " 9.00",
+        "tax": "",
+        "items": [
+            {
+                "name": " 6907992823232伊利香浓布丁75",
+                "cnt": " 1 1",
+                "price": " 2 2.00"
+            },
+            {
+                "name": " 6950549800019宜简苏打水360m",
+                "cnt": " 1",
+                "price": " 3 3"
+            },
+            {
+                "name": " 6950549800019宜简苏打水360m",
+                "cnt": " 1",
+                "price": " 3"
+            },
+            {
+                "name": " 692586153183585g旺旺碎碎冰",
+                "cnt": "",
+                "price": ""
+            }
+        ]
+    },
+    {
+        "company": " 小绿荳便民超市长",
+        "date": " 单号:03X222031100040",
+        "total": " 30.50",
+        "tax": "",
+        "items": [
+            {
+                "name": " 1 6973496200084千坛香木耳泡菜",
+                "cnt": " 1",
+                "price": " 3 3"
+            },
+            {
+                "name": " 6922507804551陈克明绿豆面",
+                "cnt": " 1",
+                "price": "00"
+            },
+            {
+                "name": " 6902890239307双汇火腿160g",
+                "cnt": " 1",
+                "price": " 11"
+            },
+            {
+                "name": "",
+                "cnt": " 1",
+                "price": " 7"
+            },
+            {
+                "name": "",
+                "cnt": "",
+                "price": " 2.5"
+            },
+            {
+                "name": "",
+                "cnt": "",
+                "price": " 7"
+            }
+        ]
+    },
+    {
+        "company": " 小绿荳便民超市长风店",
+        "date": " 单号：03X222031300148",
+        "total": " 20.00",
+        "tax": "",
+        "items": [
+            {
+                "name": "0040",
+                "cnt": " 1",
+                "price": " 5"
+            },
+            {
+                "name": "�",
+                "cnt": " 1",
+                "price": ".00"
+            },
+            {
+                "name": "",
+                "cnt": "",
+                "price": " 15"
+            }
+        ]
+    },
+    {
+        "company": " 小绿荳便民超市长风店",
+        "date": " 单号：03X222031300134",
+        "total": " 20.00",
+        "tax": "",
+        "items": [
+            {
+                "name": " 1 69211685200151.5L农夫山泉",
+                "cnt": " 1",
+                "price": " 4"
+            },
+            {
+                "name": " 6907992822877巧乐兹香草巧克",
+                "cnt": "",
+                "price": " 6"
+            },
+            {
+                "name": " 6923644284312蒙牛香雪杯145g",
+                "cnt": "",
+                "price": " 4"
+            }
+        ]
+    },
+    {
+        "company": " 小绿荳便民超市长风� 小绿荳便民超市长风店",
+        "date": " 单号：03X222031300053",
+        "total": " 16.00",
+        "tax": "",
+        "items": [
+            {
+                "name": " 6922456896508康师傅绿茶1L",
+                "cnt": " 1",
+                "price": " 12"
+            },
+            {
+                "name": "",
+                "cnt": " 1",
+                "price": " 4"
+            }
+        ]
+    },
+    {
+        "company": " 小绿荳便民超市长风店",
+        "date": " 单号:03X222031100055",
+        "total": " 6.00",
+        "tax": "",
+        "items": [
+            {
+                "name": " 6922456896362康师傅冰红茶1L",
+                "cnt": " 1",
+                "price": " 4"
+            },
+            {
+                "name": " 6907992823232伊利香浓布丁75",
+                "cnt": " 1",
+                "price": ""
+            }
+        ]
+    },
+    {
+        "company": " 小绿荳便民超市长店",
+        "date": " 单号：03X222031200169",
+        "total": " 7.50",
+        "tax": "",
+        "items": [
+            {
+                "name": " 6925303721039统一鲜橙多450m",
+                "cnt": " 1",
+                "price": " 1"
+            },
+            {
+                "name": " 6923644284688蒙牛老冰棍70g",
+                "cnt": " 1 1 1",
+                "price": " 3.5"
+            },
+            {
+                "name": " 6925861531149旺旺碎碎冰葡萄",
+                "cnt": " 1",
+                "price": "00"
+            },
+            {
+                "name": " 555ML怡宝水 瓶",
+                "cnt": "",
+                "price": ""
+            }
+        ]
+    },
+    {
+        "company": " 小绿荳便民超市长",
+        "date": " 单号:03X222031400037",
+        "total": " 29.00",
+        "tax": "",
+        "items": [
+            {
+                "name": " 6907992822723伊利巧乐兹巧脆",
+                "cnt": " 1",
+                "price": " 11 11"
+            },
+            {
+                "name": " 6907",
+                "cnt": " 1",
+                "price": " 11"
+            },
+            {
+                "name": "22723伊利巧乐兹巧脆",
+                "cnt": " 1",
+                "price": " 3.5"
+            },
+            {
+                "name": "",
+                "cnt": " 1",
+                "price": " 3.5"
+            }
+        ]
+    },
+    {
+        "company": " 小绿荳便民超市长风店",
+        "date": " 单号：03X222031300013",
+        "total": " 12.00",
+        "tax": "",
+        "items": [
+            {
+                "name": " 1 6970448686538展华香辣翅尖18",
+                "cnt": " 1",
+                "price": " 9"
+            },
+            {
+                "name": " 6915766004435百事可乐500ml",
+                "cnt": "",
+                "price": " 3"
+            }
+        ]
+    },
+    {
+        "company": " 小绿荳便民超市长风�",
+        "date": " 单号：03X222031300252",
+        "total": " 9.00",
+        "tax": "",
+        "items": [
+            {
+                "name": " 6922456889371康师傅冰糖雪梨",
+                "cnt": " 1",
+                "price": " 4"
+            },
+            {
+                "name": " 6925303793067巧面馆藤椒牛肉",
+                "cnt": " 1",
+                "price": " 2.5"
+            },
+            {
+                "name": " 6925303793067巧面馆藤椒牛肉",
+                "cnt": " 1",
+                "price": " 2.5"
+            }
+        ]
+    },
+    {
+        "company": " 小绿荳便民超市长风店",
+        "date": " 单号：03X222031200148",
+        "total": " 4.00",
+        "tax": "",
+        "items": [
+            {
+                "name": " 6921168509256550m|农夫山泉",
+                "cnt": " 1",
+                "price": " 2"
+            },
+            {
+                "name": " 6907992502588伊利优酸乳蓝莓",
+                "cnt": " 1",
+                "price": ""
+            }
+        ]
+    },
+    {
+        "company": " 小绿荳便民超市长风店",
+        "date": " 单号:03X222031300101",
+        "total": " 25.00",
+        "tax": "",
+        "items": [
+            {
+                "name": " 6901285991219555ML怡宝",
+                "cnt": " 1",
+                "price": " 2"
+            },
+            {
+                "name": " 瓶",
+                "cnt": " 1",
+                "price": " 3"
+            },
+            {
+                "name": "922456893798�",
+                "cnt": " 1",
+                "price": " 20"
+            },
+            {
+                "name": "�",
+                "cnt": "",
+                "price": ""
+            },
+            {
+                "name": "010",
+                "cnt": "",
+                "price": ""
+            },
+            {
+                "name": "01",
+                "cnt": "",
+                "price": ""
+            },
+            {
+                "name": "�",
+                "cnt": "",
+                "price": ""
+            },
+            {
+                "name": "�",
+                "cnt": "",
+                "price": ""
+            },
+            {
+                "name": "�",
+                "cnt": "",
+                "price": ""
+            },
+            {
+                "name": "香�",
+                "cnt": "",
+                "price": ""
+            },
+            {
+                "name": "�",
+                "cnt": "",
+                "price": ""
+            }
+        ]
+    },
+    {
+        "company": " 小绿荳便民超市长风�",
+        "date": " 单号：03X222031100003",
+        "total": " 63.00",
+        "tax": "",
+        "items": [
+            {
+                "name": " 6941583600086衣架",
+                "cnt": " 1",
+                "price": " 8"
+            },
+            {
+                "name": " 6970258925964菲纹海马香氛沐",
+                "cnt": " 1",
+                "price": " 20"
+            },
+            {
+                "name": " 6903148048979200g飘柔去屑养",
+                "cnt": " 1",
+                "price": " 15"
+            },
+            {
+                "name": "",
+                "cnt": " 1",
+                "price": " 20"
+            }
+        ]
+    },
+    {
+        "company": " 小绿荳便民超市长风�",
+        "date": "� 单号：03X222031200064",
+        "total": " 38.50",
+        "tax": "",
+        "items": [
+            {
+                "name": " 6954767410388听装可口可乐33",
+                "cnt": " 1",
+                "price": " 2.5"
+            },
+            {
+                "name": " 6901672650101乐堡听装500ml",
+                "cnt": " 1",
+                "price": " 6"
+            },
+            {
+                "name": " 6920202888883罐装红牛250ml",
+                "cnt": " 4",
+                "price": " 6"
+            },
+            {
+                "name": " 6920202888883罐装红牛250ml",
+                "cnt": " 1",
+                "price": " 6"
+            }
+        ]
+    },
+    {
+        "company": " 小绿荳便民超市长风店",
+        "date": " 单号：03X222031400005",
+        "total": " 25.00",
+        "tax": "",
+        "items": [
+            {
+                "name": " 6921168550142维他命柑橘风味",
+                "cnt": " 1",
+                "price": " 5"
+            },
+            {
+                "name": "",
+                "cnt": " 1",
+                "price": " 20"
+            }
+        ]
+    },
+    {
+        "company": " 小绿荳便民超市长风店",
+        "date": " 单号:03X222031300016",
+        "total": " 29.00",
+        "tax": "",
+        "items": [
+            {
+                "name": " 6938514108001江小白白葡萄味",
+                "cnt": " 1",
+                "price": " 13"
+            },
+            {
+                "name": " 6974433040015强龙记打火机",
+                "cnt": " 1",
+                "price": " 15"
+            },
+            {
+                "name": "",
+                "cnt": " 1",
+                "price": ""
+            },
+            {
+                "name": "",
+                "cnt": " 1",
+                "price": ""
+            }
+        ]
+    },
+    {
+        "company": " 小绿荳便民超市长风店",
+        "date": " 单号：03X222031300243",
+        "total": " 29.50",
+        "tax": "",
+        "items": [
+            {
+                "name": " 6920208983506康师傅麻辣笋子",
+                "cnt": " 1",
+                "price": " 4.5"
+            },
+            {
+                "name": "",
+                "cnt": " 1",
+                "price": " 25"
+            }
+        ]
+    }
+]

@@ -1,0 +1,100 @@
+{
+    "model_type": "PyTorch",
+    "runtime": "python3.7",
+    "model_algorithm": "LayoutLMv3",
+    "metrics": {
+        "f1": 0.0,
+        "accuracy": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+    },
+    "apis": [
+        {
+            "protocol": "https",
+            "url": "/",
+            "method": "post",
+            "request": {
+                "Content-type": "multipart/form-data",
+                "data": {
+                    "type": "object",
+                    "properties": {
+                        "pickle": {
+                            "type": "file"
+                        }
+                    }
+                }
+            },
+            "response": {
+                "Content-type": "multipart/form-data",
+                "data": {
+                    "type": "object",
+                    "properties": {
+                        "company": {
+                            "type": "string"
+                        },
+                        "date": {
+                            "type": "string"
+                        },
+                        "total": {
+                            "type": "string"
+                        },
+                        "tax": {
+                            "type": "string"
+                        },
+                        "items": {
+                            "type": "list",
+                            "items": [
+                                {
+                                    "type": "object",
+                                    "properties": {
+                                        "name": {
+                                            "type": "string"
+                                        },
+                                        "cnt": {
+                                            "type": "string"
+                                        },
+                                        "price": {
+                                            "type": "string"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    ],
+    "dependencies": [
+        {
+            "installer": "pip",
+            "packages": [
+                {
+                    "restraint": "EXACT",
+                    "package_version": "0.9.0",
+                    "package_name": "torchvision"
+                },
+                {
+                    "restraint": "EXACT",
+                    "package_version": "1.8.0",
+                    "package_name": "torch"
+                },
+                {
+                    "restraint": "EXACT",
+                    "package_version": "0.5.0",
+                    "package_name": "torchtext"
+                },
+                {
+                    "restraint": "EXACT",
+                    "package_version": "4.20.1",
+                    "package_name": "transformers"
+                },
+                {
+                    "restraint": "EXACT",
+                    "package_version": "2.3.2",
+                    "package_name": "datasets"
+                }
+            ]
+        }
+    ]
+}
