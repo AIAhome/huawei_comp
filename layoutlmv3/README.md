@@ -20,6 +20,7 @@
 ├── move.ipynb # 华为modelarts平台上和obs桶间转移
 ├── res_v3.json # 后处理后结果（一次debug的结果）
 ├── res_v3_wo_post.json # 后处理前结果（一次debug的结果）
+├── viz_new.ipynb # 可视化fine-tune的序列标注过程
 └── test_data.pkl # 测试样本（来自竞赛指南）
 ```
 
